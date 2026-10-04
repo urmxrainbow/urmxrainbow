@@ -60,11 +60,11 @@ struct Nana {
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f7a8c4&icon_color=f7a8c4&text_color=c9d1d9&rank_icon=github"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=f7a8c4&text_color=c9d1d9"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?urmxrainbow=Nana&layout=compact&hide_border=true&bg_color=0d1117&title_color=f7a8c4&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURNAME&bg_color=0d1117&color=f7a8c4&line=f7a8c4&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?urmxrainbow=Nana&bg_color=0d1117&color=f7a8c4&line=f7a8c4&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
 <p align="center"><i>build things. break things. learn things. ♡</i></p>
