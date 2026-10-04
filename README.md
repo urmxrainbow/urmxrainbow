@@ -28,8 +28,9 @@ struct Nana {
 ### ✦ stack
 
 **languages**
-<br/><img src="https://skillicons.dev/icons?i=cpp,c,py,ts,swift,java&theme=dark" />
-
+<img src="https://skillicons.dev/icons?i=cpp,c,py,java,swift,ts,js,html,css&theme=dark" />
+</p>
+ 
 **web & app**
 <br/><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vercel&theme=dark" />
 
@@ -41,7 +42,10 @@ struct Nana {
 <img src="https://img.shields.io/badge/machine_learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=f7a8c4" height="48"/>
 
 **tools**
-<br/><img src="https://skillicons.dev/icons?i=git,github,Xcode, linux,vscode&theme=dark" />
+<p><b>tools</b><br/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/Xcode-0d1117?style=for-the-badge&logo=xcode&logoColor=f7a8c4" height="48"/>
+</p>
 
 ### ✦ currently
 
