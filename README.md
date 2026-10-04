@@ -25,9 +25,7 @@ struct Nana {
 
 ### ✦ stack
 
-### ✦ stack
-
-**languages**
+<p><b>languages</b><br/>
 <img src="https://skillicons.dev/icons?i=cpp,c,py,java,swift,ts,js,html,css&theme=dark" />
 </p>
  
@@ -43,7 +41,7 @@ struct Nana {
 
 **tools**
 <p><b>tools</b><br/>
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" />
 <img src="https://img.shields.io/badge/Xcode-0d1117?style=for-the-badge&logo=xcode&logoColor=f7a8c4" height="48"/>
 </p>
 
