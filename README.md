@@ -48,13 +48,48 @@ struct Nana {
 ! probably starting another side project
 ```
 
-### ✦ featured project
+### ✦ featured projects
 
-<a href="https://lumohabit.com/">
-  <img src="https://img.shields.io/badge/lumo-habit_app-f7a8c4?style=for-the-badge&labelColor=0d1117"/>
-</a>
-
-> one-line description of what lumo does goes here ✦
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://lumohabit.com/"><img src="https://image.thum.io/get/width/800/crop/500/https://lumohabit.com" width="100%"/></a>
+<h4>✦ lumo <sub>· iOS app</sub></h4>
+a social habit app: build better habits, capture your journey, and grow alongside friends.
+<br/><br/>
+<img src="https://img.shields.io/badge/Swift-0d1117?style=flat-square&logo=swift&logoColor=f7a8c4"/>
+<img src="https://img.shields.io/badge/iOS-0d1117?style=flat-square&logo=apple&logoColor=f7a8c4"/>
+<br/><a href="https://lumohabit.com/">lumohabit.com →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.songshelf.app"><img src="https://image.thum.io/get/width/800/crop/500/https://www.songshelf.app" width="100%"/></a>
+<h4>♫ songshelf</h4>
+one-line description of songshelf goes here.
+<br/><br/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=nextdotjs&logoColor=f7a8c4"/>
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=f7a8c4"/>
+<br/><a href="https://www.songshelf.app">songshelf.app →</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://prodomoro-app.vercel.app"><img src="https://image.thum.io/get/width/800/crop/500/https://prodomoro-app.vercel.app" width="100%"/></a>
+<h4>⏱ prodomoro</h4>
+a pomodoro timer with focus sessions, breaks, daily & monthly goal tracking and a to-do list.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=f7a8c4"/>
+<br/><a href="https://prodomoro-app.vercel.app">live demo →</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://cutebestie.vercel.app"><img src="https://image.thum.io/get/width/800/crop/500/https://cutebestie.vercel.app" width="100%"/></a>
+<h4>♡ cutebestie</h4>
+an interactive "how well do you know your bestie?" quiz.
+<br/><br/>
+<img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=f7a8c4"/>
+<br/><a href="https://cutebestie.vercel.app">live demo →</a>
+</td>
+</tr>
+</table>
 
 ### ✦ stats
 
