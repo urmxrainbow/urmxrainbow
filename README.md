@@ -99,7 +99,7 @@ an interactive "how well do you know your bestie?" quiz.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?urmxrainbow=Nana&bg_color=0d1117&color=f7a8c4&line=f7a8c4&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urmxrainbow&bg_color=0d1117&color=f7a8c4&line=f7a8c4&point=ffffff&area=true&hide_border=true" width="95%"/>
 </p>
 
 <p align="center"><i>build things. break things. learn things. ♡</i></p>
