@@ -25,18 +25,23 @@ struct Nana {
 
 ### ✦ stack
 
+### ✦ stack
+
 **languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=cpp,c,py,ts,swift,java&theme=dark" />
+<br/><img src="https://skillicons.dev/icons?i=cpp,c,py,ts,swift,java&theme=dark" />
 
 **web & app**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" />
+<br/><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,vercel&theme=dark" />
 
-**data & ml**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
+**backend & data**
+<br/><img src="https://skillicons.dev/icons?i=firebase,supabase,postgres&theme=dark" />
+
+**robotics & ml**
+<br/><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv&theme=dark" />
 <img src="https://img.shields.io/badge/machine_learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=f7a8c4" height="48"/>
+
+**tools**
+<br/><img src="https://skillicons.dev/icons?i=git,github,Xcode, linux,vscode&theme=dark" />
 
 ### ✦ currently
 
