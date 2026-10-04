@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://lumohabit.com/"><img src="https://img.shields.io/badge/currently_building-lumo_✦-f7a8c4?style=for-the-badge&labelColor=0d1117"/></a>
-  <img src="https://komarev.com/ghpvc/?username=YOURNAME&color=f7a8c4&style=for-the-badge&label=visitors"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=urmxrainbow.urmxrainbow.&left_color=%230d1117&right_color=%23f7a8c4&left_text=visitors"/>
 </p>
 
 ---
