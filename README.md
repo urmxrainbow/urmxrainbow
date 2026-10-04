@@ -39,7 +39,6 @@ struct Nana {
 <br/><img src="https://skillicons.dev/icons?i=arduino,raspberrypi,opencv&theme=dark" />
 <img src="https://img.shields.io/badge/machine_learning-0d1117?style=for-the-badge&logo=scikitlearn&logoColor=f7a8c4" height="48"/>
 
-**tools**
 <p><b>tools</b><br/>
 <img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" />
 <img src="https://img.shields.io/badge/Xcode-0d1117?style=for-the-badge&logo=xcode&logoColor=f7a8c4" height="48"/>
