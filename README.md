@@ -94,8 +94,8 @@ an interactive "how well do you know your bestie?" quiz.
 ### ✦ stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?urmxrainbow=Nana&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f7a8c4&icon_color=f7a8c4&text_color=c9d1d9&rank_icon=github"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?urmxrainbow=Nana&layout=compact&hide_border=true&bg_color=0d1117&title_color=f7a8c4&text_color=c9d1d9"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f7a8c4&icon_color=f7a8c4&text_color=c9d1d9&rank_icon=github"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=f7a8c4&text_color=c9d1d9"/>
 </p>
 
 <p align="center">
