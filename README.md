@@ -17,7 +17,7 @@
 ```swift
 struct Nana {
     let role     = "software engineer & cs student"
-    let location = "germany 🇩🇪"
+    let location = "germany"
     let building = "lumo ✦ → lumohabit.com"
     let hobbies  = ["building apps", "robots", "random side projects"]
     let motto    = "build things. break things. learn things."
@@ -99,7 +99,7 @@ an interactive "how well do you know your bestie?" quiz.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=urmxrainbow&bg_color=0d1117&color=f7a8c4&line=f7a8c4&point=ffffff&area=true&hide_border=true" width="95%"/>
+  <img src="https://ghchart.rshah.org/f7a8c4/urmxrainbow" width="100%"/>
 </p>
 
 <p align="center"><i>build things. break things. learn things. ♡</i></p>
